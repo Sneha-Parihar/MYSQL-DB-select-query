@@ -1,0 +1,1 @@
+select trim(first_name) as cleaned_first_name from employees;
