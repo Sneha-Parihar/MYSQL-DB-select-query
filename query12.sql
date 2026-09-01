@@ -1,0 +1,1 @@
+select substring(first_name, 1, 3) as first_three_chars from employees;
