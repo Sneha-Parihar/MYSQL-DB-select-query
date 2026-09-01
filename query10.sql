@@ -1,0 +1,1 @@
+select count(job_id) as "Total Jobs" from employees;
