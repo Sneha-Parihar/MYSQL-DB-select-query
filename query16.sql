@@ -1,0 +1,1 @@
+select length(concat(first_name,' ',last_name)) as name_length from employees;
