@@ -1,0 +1,1 @@
+select max(salary) as "max_salary" ,min(salary) as "min_salary" from employees; 
